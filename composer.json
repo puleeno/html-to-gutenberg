@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "puleeno/php-peg": "2.0.0"
+    },
     "autoload": {
         "psr-4": {
             "Puleeno\\Gutenberg\\": "src/"
